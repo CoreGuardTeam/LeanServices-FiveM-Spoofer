@@ -1,4 +1,5 @@
 # LeanServices-FiveM-Spoofer Cracked
-This repo is made for the LeanServices Development Team. They decided to scam our company out of $70 for a small source code that was pasted from GitHub.
+This is the release of the source code of a paid spoofer that is dedicated to supporting FiveM. 
 
-Video: https://www.youtube.com/watch?v=2piuOBsfd1g
+Video of Spoofer: https://www.youtube.com/watch?v=2piuOBsfd1g
+![image](https://github.com/netProductionTeam/LeanServices-FiveM-Spoofer/assets/160789493/b89e6fa0-2125-4f95-9f5a-e97b09700caa)
